@@ -1,4 +1,4 @@
-### 반갑습니다! iOS 개발을 공부하는 임우섭 입니다.
+### 반갑습니다! iOS 개발을 공부하는 예비 개발자 Henry 입니다! 와주셔서 감사합니다!
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flemona-97&count_bg=%232FFF00&title_bg=%23000000&icon=&icon_color=%230034FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br></br>
