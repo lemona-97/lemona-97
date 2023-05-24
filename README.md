@@ -12,6 +12,6 @@
 
 [블로그 바로가기]https://blog.naver.com/wcbe9745
 
-[Henry - iOS Developer]https://lemona-97.notion.site/iOS-Developer-5d5745226a0246a2a0ebb3d2e1e3e6db
+![Henry - iOS Developer](https://lemona-97.notion.site/iOS-Developer-5d5745226a0246a2a0ebb3d2e1e3e6db)
 
 ![lemona's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemona-97&show_icons=true&theme=synthwave)
