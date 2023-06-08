@@ -2,9 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flemona-97&count_bg=%232FFF00&title_bg=%23000000&icon=&icon_color=%230034FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br></br>
 ## Skills 💻
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Swift-F05138?style=plastic&Swift&white"/></a>
-<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white">
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&plastic&Swift&white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&plastic&Python&white)
 
