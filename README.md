@@ -6,7 +6,7 @@
 ![Swift](https://img.shields.io/badge/Swift-F05138.svg?&plastic&logo-Swift&logoColor-white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&plastic&logo-Python&logoColor-white)
 
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo-C&logoColor-white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=plastic&logo-C&logoColor-white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo-C++&logoColor-white)
 
 [블로그 바로가기](https://blog.naver.com/wcbe9745)
