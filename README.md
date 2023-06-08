@@ -3,10 +3,10 @@
 <br></br>
 ## Skills 💻
 
-![Swift](https://img.shields.io/badge/Swift-F05138.svg?&plastic&logo-Swift&logoColor-white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&plastic&logo-Python&logoColor-white)
+![Swift](https://img.shields.io/badge/Swift-F05138.svg?&plastic&Swift&white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&plastic&Python&white)
 
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&plastic&C&logoColor-white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&plastic&C&white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&plastic&C++&white)
 
 [블로그 바로가기](https://blog.naver.com/wcbe9745)
