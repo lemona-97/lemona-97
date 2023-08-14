@@ -20,6 +20,6 @@
 ---
 Project
 
-[MoMo (Memory Moment)](https://apps.apple.com/kr/app/%EB%AA%A8%EB%AA%A8-memorymoment/id1668532366)
+[MoMo (간단한 메모 및 일기 - Memory Moment)](https://apps.apple.com/kr/app/%EB%AA%A8%EB%AA%A8-memorymoment/id1668532366)
 
-[DIVIDE](https://chatter-salute-28a.notion.site/What-is-D-VIDE-99ae92444ac543d6ad7dac9dd46c41f7)
+[DIVIDE (배달 공동 주문 플랫폼 - D-VIDE](https://chatter-salute-28a.notion.site/What-is-D-VIDE-99ae92444ac543d6ad7dac9dd46c41f7)
