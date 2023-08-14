@@ -21,3 +21,5 @@
 Project
 
 [MoMo (Memory Moment)](https://apps.apple.com/kr/app/%EB%AA%A8%EB%AA%A8-memorymoment/id1668532366)
+
+[DIVIDE](https://chatter-salute-28a.notion.site/What-is-D-VIDE-99ae92444ac543d6ad7dac9dd46c41f7)
