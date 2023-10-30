@@ -1,6 +1,15 @@
 ### iOS Developer
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flemona-97&count_bg=%232FFF00&title_bg=%23000000&icon=&icon_color=%230034FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br></br>
+
+---
+출시 앱
+
+[MoMo (간단한 메모 및 일기 - Memory Moment)](https://apps.apple.com/kr/app/%EB%AA%A8%EB%AA%A8-memorymoment/id1668532366)
+
+[DIVIDE (배달 공동 주문 플랫폼 - D-VIDE)](https://apps.apple.com/kr/app/divide/id6464589963)
+
+---
 ## Skills 💻
 <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
@@ -17,9 +26,3 @@
 ![lemona's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemona-97&show_icons=true&theme=synthwave)
 
 
----
-출시된 앱
-
-[MoMo (간단한 메모 및 일기 - Memory Moment)](https://apps.apple.com/kr/app/%EB%AA%A8%EB%AA%A8-memorymoment/id1668532366)
-
-[DIVIDE (배달 공동 주문 플랫폼 - D-VIDE)](https://chatter-salute-28a.notion.site/What-is-D-VIDE-99ae92444ac543d6ad7dac9dd46c41f7)
