@@ -1,6 +1,5 @@
-### iOS Developer
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flemona-97&count_bg=%232FFF00&title_bg=%23000000&icon=&icon_color=%230034FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br></br>
+### iOS Developer - 임우섭
+
 
 ---
 출시 앱
