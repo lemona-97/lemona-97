@@ -6,13 +6,16 @@
 
 [Photi (챌린지 기반 인증 커뮤니티 - Photi)](https://apps.apple.com/kr/app/%ED%8F%AC%ED%8B%B0/id6747941953)
 
-UIKit, Tuist, SPM, RxSwift, CodeBasedUI(+ SnapKit), MVVM, Swift Concurrency
+UIKit Tuist SPM RxSwift CodeBasedUI(+ SnapKit) MVVM Swift Concurrency
 
 [MoMo (간단한 메모 및 일기 - Memory Moment)](https://apps.apple.com/kr/app/%EB%AA%A8%EB%AA%A8-memorymoment/id1668532366)
 
-UIKit, MVC, CoreData, CodeBasedUI, SnapKit
+UIKit MVC CoreData CodeBasedUI SnapKit
 
 [DIVIDE (배달 공동 주문 플랫폼 - D-VIDE)](https://apps.apple.com/kr/app/divide/id6464589963)
+
+UIKit MVVM NaverMap
+
 
 ---
 ## Skills 💻
