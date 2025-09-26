@@ -5,6 +5,7 @@
 출시 앱
 
 [Photi (챌린지 기반 인증 커뮤니티 - Photi)](https://apps.apple.com/kr/app/%ED%8F%AC%ED%8B%B0/id6747941953)
+Tuist, SPM, RxSwift, CodeBasedUI, MVVM, Swift Concurrency
 
 [MoMo (간단한 메모 및 일기 - Memory Moment)](https://apps.apple.com/kr/app/%EB%AA%A8%EB%AA%A8-memorymoment/id1668532366)
 
