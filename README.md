@@ -15,9 +15,6 @@
 <img src="https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=CocoaPods&logoColor=white"> <img src="https://img.shields.io/badge/Gitlab-FC6D26?style=for-the-badge&logo=GitLab&logoColor=white"> <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=SourceTree&logoColor=white">
 
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-
-
 [블로그 바로가기](https://blog.naver.com/wcbe9745)
 
 [Henry - iOS Developer](https://lemona-97.notion.site/iOS-Developer-5d5745226a0246a2a0ebb3d2e1e3e6db)
