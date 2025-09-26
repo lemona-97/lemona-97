@@ -18,9 +18,6 @@ UIKit MVVM NaverMap
 
 
 ---
-## Skills 💻
-Swift, UIKit, Tuist, SPM, CocoaPods, MVVM, CleanSwift, AutoLayout, RxSwift, Swift Concurrency
-
 [블로그 바로가기](https://blog.naver.com/wcbe9745)
 
 [Henry - iOS Developer](https://lemona-97.notion.site/iOS-Developer-5d5745226a0246a2a0ebb3d2e1e3e6db)
