@@ -3,8 +3,8 @@
 
 ---
 출시 앱
-
-[Photi (챌린지 기반 인증 커뮤니티 - Photi)](https://apps.apple.com/kr/app/%ED%8F%AC%ED%8B%B0/id6747941953)
+[Photi iOS 프로젝트)](https://github.com/alloon-project/photi-ios)
+[Photi 앱스토어 링크](https://apps.apple.com/kr/app/%ED%8F%AC%ED%8B%B0/id6747941953)
 
 UIKit Tuist SPM RxSwift CodeBasedUI(+ SnapKit) MVVM Swift Concurrency
 
