@@ -1,30 +1,50 @@
-#  Hi, I'm Henry (WooSeop Lim) 
+#  Hi, I'm Henry (WooSeop Lim) 
 ### iOS Developer who pursues "Clean Code & Scalable Architecture"
 
 ---
 
 ## 🛠 Tech Stack
 - **Languages & Frameworks:** Swift, UIKit, SwiftUI, Swift Concurrency
-- **Architecture:** MVVM, MVC, ReactorKit, TCA (Learning)
-- **Library & Tools:** RxSwift, SnapKit, Tuist, SPM, CoreData, Firebase
+- **Architecture:** MVVM, MVC, Clean Architecture, ReactorKit, TCA (Learning)
+- **Library & Tools:** RxSwift, SnapKit, Tuist, SPM, CoreData, SwiftData, Firebase
 - **Others:** Git Flow, CI/CD (GitHub Actions), Unit Testing
 
 ---
 
-## 📱 Featured Projects
+## 📱 서비스 진행중
 
 ### [Photi (포티)](https://apps.apple.com/kr/app/%ED%8F%AC%ED%8B%B0/id6747941953) | *Personal Project*
 > **실시간 사진 인증 챌린지 커뮤니티**
 - **Tech:** `UIKit`, `Tuist`, `RxSwift`, `Swift Concurrency`, `MVVM`
-- **Focus:** - **Tuist**를 도입하여 프로젝트 설정 자동화 및 모듈 간 의존성 관리 최적화.
+- **Focus:**
+  - **Tuist**를 도입하여 프로젝트 설정 자동화 및 모듈 간 의존성 관리 최적화.
   - **Swift Concurrency**를 활용해 비동기 이미지 처리 및 UI 응답성 개선.
   - 코드 기반 UI(`SnapKit`)로 디자인 디테일 및 유지보수 효율 확보.
 - [GitHub Repository](https://github.com/alloon-project/photi-ios)
 
+---
+
+## 🚀 출시 예정
+
+### MeetAgent | *Personal Project*
+> **음성 녹음 & AI 자동 요약 앱**
+- **Tech:** `SwiftUI`, `SwiftData`, `Apple Speech Framework`, `Apple Foundation Model`, `Clean Architecture`
+- **Focus:**
+  - **Apple Speech(SFSpeechRecognizer)** 기반 완전 온디바이스 실시간 STT 구현 — 외부 모델 다운로드 없이 즉시 사용 가능.
+  - **50초 세션 선제 재시작** 전략으로 Apple Speech 1분 제한을 우회, 무제한 연속 녹음 지원.
+  - **Apple Foundation Model** 활용 온디바이스 AI 요약 — 강의·회의·계약 모드별 맞춤 마크다운 형식 출력.
+  - **Clean Architecture** (Presentation / Domain / Data) + **SOLID 원칙** 적용으로 계층 간 의존성 역전 및 확장성 확보.
+  - Voice Processing IO로 배경음·에코 제거, 8개 언어 STT 지원.
+
+---
+
+## 🗄️ 서비스 및 지원 종료
+
 ### [DIVIDE (디바이드)](https://apps.apple.com/kr/app/divide/id6464589963) | *Team Project*
 > **배달 공동 주문 플랫폼**
 - **Tech:** `UIKit`, `MVVM`, `NaverMap SDK`, `RxSwift`
-- **Focus:** - 실시간 위치 기반 서비스 구현을 위한 외부 SDK 연동 및 최적화.
+- **Focus:**
+  - 실시간 위치 기반 서비스 구현을 위한 외부 SDK 연동 및 최적화.
   - MVVM 패턴을 적용하여 복잡한 주문 로직과 UI 상태의 결합도 분리.
 
 ### [MoMo (Memory Moment)](https://apps.apple.com/kr/app/%EB%AA%A8%EB%AA%A8-memorymoment/id1668532366)
