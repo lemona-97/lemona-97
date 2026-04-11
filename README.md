@@ -1,29 +1,46 @@
-### iOS Developer - 임우섭
-
-
----
-출시 앱
-
-[Photi iOS 프로젝트](https://github.com/alloon-project/photi-ios)
-
-[Photi 앱스토어 링크](https://apps.apple.com/kr/app/%ED%8F%AC%ED%8B%B0/id6747941953)
-
-UIKit Tuist SPM RxSwift CodeBasedUI(+ SnapKit) MVVM Swift Concurrency
-
-[MoMo (간단한 메모 및 일기 - Memory Moment)](https://apps.apple.com/kr/app/%EB%AA%A8%EB%AA%A8-memorymoment/id1668532366)
-
-UIKit MVC CoreData CodeBasedUI(+ SnapKit)
-
-[DIVIDE (배달 공동 주문 플랫폼 - D-VIDE)](https://apps.apple.com/kr/app/divide/id6464589963)
-
-UIKit MVVM NaverMap
-
+#  Hi, I'm Henry (WooSeop Lim) 
+### iOS Developer who pursues "Clean Code & Scalable Architecture"
 
 ---
-[블로그 바로가기](https://blog.naver.com/wcbe9745)
 
-[Henry - iOS Developer](https://lemona-97.notion.site/iOS-Developer-5d5745226a0246a2a0ebb3d2e1e3e6db)
+## 🛠 Tech Stack
+- **Languages & Frameworks:** Swift, UIKit, SwiftUI, Swift Concurrency
+- **Architecture:** MVVM, MVC, ReactorKit, TCA (Learning)
+- **Library & Tools:** RxSwift, SnapKit, Tuist, SPM, CoreData, Firebase
+- **Others:** Git Flow, CI/CD (GitHub Actions), Unit Testing
 
-![lemona's GitHub stats](https://github-readme-stats.vercel.app/api?username=lemona-97&show_icons=true&theme=synthwave)
+---
 
+## 📱 Featured Projects
 
+### [Photi (포티)](https://apps.apple.com/kr/app/%ED%8F%AC%ED%8B%B0/id6747941953) | *Personal Project*
+> **실시간 사진 인증 챌린지 커뮤니티**
+- **Tech:** `UIKit`, `Tuist`, `RxSwift`, `Swift Concurrency`, `MVVM`
+- **Focus:** - **Tuist**를 도입하여 프로젝트 설정 자동화 및 모듈 간 의존성 관리 최적화.
+  - **Swift Concurrency**를 활용해 비동기 이미지 처리 및 UI 응답성 개선.
+  - 코드 기반 UI(`SnapKit`)로 디자인 디테일 및 유지보수 효율 확보.
+- [GitHub Repository](https://github.com/alloon-project/photi-ios)
+
+### [DIVIDE (디바이드)](https://apps.apple.com/kr/app/divide/id6464589963) | *Team Project*
+> **배달 공동 주문 플랫폼**
+- **Tech:** `UIKit`, `MVVM`, `NaverMap SDK`, `RxSwift`
+- **Focus:** - 실시간 위치 기반 서비스 구현을 위한 외부 SDK 연동 및 최적화.
+  - MVVM 패턴을 적용하여 복잡한 주문 로직과 UI 상태의 결합도 분리.
+
+### [MoMo (Memory Moment)](https://apps.apple.com/kr/app/%EB%AA%A8%EB%AA%A8-memorymoment/id1668532366)
+> **심플한 메모 및 일기 기록 앱**
+- **Tech:** `UIKit`, `MVC`, `CoreData`, `SnapKit`
+- **Focus:** 로컬 DB(`CoreData`)를 활용한 오프라인 데이터 영속성 관리 및 경량화된 아키텍처 설계.
+
+---
+
+## ✍️ Records & Links
+- 📝 [Technical Blog](https://blog.naver.com/wcbe9745) : 개발 중 마주한 트러블슈팅과 CS 지식을 기록합니다.
+- 📂 [Resume (Notion)](https://lemona-97.notion.site/iOS-Developer-5d5745226a0246a2a0ebb3d2e1e3e6db) : 상세한 경력과 프로젝트 경험을 확인하실 수 있습니다.
+- 📫 Contact : wcbe9745@naver.com
+
+---
+
+## 💡 Interest
+- **Better Architecture:** 복잡한 앱의 상태를 효율적으로 관리하기 위한 **TCA**와 **ReactorKit** 연구 중.
+- **Optimization:** 메모리 누수 방지(ARC)와 앱 실행 성능 최적화에 깊은 관심이 있습니다.
