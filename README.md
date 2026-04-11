@@ -13,7 +13,7 @@
 
 ## 📱 서비스 진행중
 
-### [Photi (포티)](https://apps.apple.com/kr/app/%ED%8F%AC%ED%8B%B0/id6747941953) | *Personal Project*
+### <img src="icons/photi.png" width="40" height="40" align="center" style="border-radius:10px"/> [Photi (포티)](https://apps.apple.com/kr/app/%ED%8F%AC%ED%8B%B0/id6747941953) | *Personal Project*
 > **실시간 사진 인증 챌린지 커뮤니티**
 - **Tech:** `UIKit`, `Tuist`, `RxSwift`, `Swift Concurrency`, `MVVM`
 - **Focus:**
@@ -26,7 +26,7 @@
 
 ## 🚀 출시 예정
 
-### MeetAgent | *Personal Project*
+### <img src="icons/meetagent.png" width="40" height="40" align="center" style="border-radius:10px"/> MeetAgent | *Personal Project*
 > **음성 녹음 & AI 자동 요약 앱**
 - **Tech:** `SwiftUI`, `SwiftData`, `Apple Speech Framework`, `Apple Foundation Model`, `Clean Architecture`
 - **Focus:**
@@ -40,14 +40,14 @@
 
 ## 🗄️ 서비스 및 지원 종료
 
-### [DIVIDE (디바이드)](https://apps.apple.com/kr/app/divide/id6464589963) | *Team Project*
+### <img src="icons/divide.png" width="40" height="40" align="center" style="border-radius:10px"/> [DIVIDE (디바이드)](https://apps.apple.com/kr/app/divide/id6464589963) | *Team Project*
 > **배달 공동 주문 플랫폼**
 - **Tech:** `UIKit`, `MVVM`, `NaverMap SDK`, `RxSwift`
 - **Focus:**
   - 실시간 위치 기반 서비스 구현을 위한 외부 SDK 연동 및 최적화.
   - MVVM 패턴을 적용하여 복잡한 주문 로직과 UI 상태의 결합도 분리.
 
-### [MoMo (Memory Moment)](https://apps.apple.com/kr/app/%EB%AA%A8%EB%AA%A8-memorymoment/id1668532366)
+### <img src="icons/momo.png" width="40" height="40" align="center" style="border-radius:10px"/> [MoMo (Memory Moment)](https://apps.apple.com/kr/app/%EB%AA%A8%EB%AA%A8-memorymoment/id1668532366)
 > **심플한 메모 및 일기 기록 앱**
 - **Tech:** `UIKit`, `MVC`, `CoreData`, `SnapKit`
 - **Focus:** 로컬 DB(`CoreData`)를 활용한 오프라인 데이터 영속성 관리 및 경량화된 아키텍처 설계.
