@@ -13,7 +13,7 @@
 
 ## 📱 서비스 진행중
 
-### <img src="icons/photi.png" width="40" height="40" align="center" style="border-radius:10px"/> [Photi (포티)](https://apps.apple.com/kr/app/%ED%8F%AC%ED%8B%B0/id6747941953) | *Personal Project*
+### <img src="icons/photi.png" width="40" height="40" align="center" style="border-radius:10px"/> [Photi (포티)](https://apps.apple.com/kr/app/%ED%8F%AC%ED%8B%B0/id6747941953) | *Team Project*
 > **실시간 사진 인증 챌린지 커뮤니티**
 - **Tech:** `UIKit`, `Tuist`, `RxSwift`, `Swift Concurrency`, `MVVM`
 - **Focus:**
