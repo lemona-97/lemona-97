@@ -1,4 +1,4 @@
-#  Hi, I'm Henry (WooSeop Lim) 
+#  Hi, I'm Henry (WooSeob Lim) 
 ### iOS Developer who pursues "Clean Code & Scalable Architecture"
 
 ---
