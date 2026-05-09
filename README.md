@@ -22,6 +22,16 @@
   - 코드 기반 UI(`SnapKit`)로 디자인 디테일 및 유지보수 효율 확보.
 - [GitHub Repository](https://github.com/alloon-project/photi-ios)
 
+### <img src="https://github.com/user-attachments/assets/8d14057f-d344-4467-9e90-1d787f7dfb9c" width="40" height="40" align="center" style="border-radius:10px"/> [Secret MBTI Counselor](https://github.com/lemona-97/SecretMBTICounselor) | *Personal Project*
+> **16가지 MBTI 성격에 맞춘 AI 상담사 대화 앱** *(2025.04 ~ 2025.05)*
+- **Tech:** `SwiftUI`, `Apple Foundation Models`, `SwiftData`, `Speech Framework`, `AVFoundation`, `MVVM`
+- **Focus:**
+  - **Apple Foundation Models** 기반 완전 온디바이스 AI — 외부 서버 전송 없이 프라이버시 100% 보장.
+  - **16가지 MBTI별** 고유한 말투·상담 스타일·음성 프로필로 차별화된 상담사 개성 구현.
+  - **Speech Framework(STT) + AVSpeechSynthesizer(TTS)** 결합으로 텍스트·음성 이중 입출력 지원.
+  - **Swift 6 Strict Concurrency** (`@MainActor`, `nonisolated`) 적용으로 안전한 비동기 처리.
+  - **Jaccard 유사도 기반** 중복 응답 필터링 및 최근 12개 히스토리 컨텍스트 주입으로 자연스러운 대화 흐름 유지.
+
 ---
 
 ## 🚀 출시 예정
